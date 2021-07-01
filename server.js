@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 
 // Middleware list
+app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
@@ -43,8 +44,7 @@ app.post('/api/notes', (req, res) => {
 });
 
 app.delete('/api/notes/:id', (req, res) => {
-    const noteId = req.params.id;
-    removeNote(noteId, notes);
+    removeNote(req.params.id, notes);
     res.json({
         message: 'Note removed from notes!'
     });

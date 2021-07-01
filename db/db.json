@@ -1,29 +1,14 @@
 {
-  "passedNotes": [
+  "notes": [
     {
-      "title": "Text Test",
-      "text": "Text text",
-      "id": "SygSN1C9iYbPY8wq16SO-"
+      "title": "Blah",
+      "text": "Dee",
+      "id": "G5MJwqpyZEDrJF8jmCvNy"
     },
     {
-      "title": "Vuper Test",
-      "text": "Vuper vuper",
-      "id": "CBWwBcIykbHB3KYwJ9f-u"
-    },
-    {
-      "title": "Tuper Test",
-      "text": "Tuper tuper",
-      "id": "9wTa-wqZG5XR9aSC5zTWf"
-    },
-    {
-      "title": "Super Test",
-      "text": "Super super",
-      "id": "pojuXtEWqgHdo_Y7ADaB3"
-    },
-    {
-      "title": "Duper Test",
-      "text": "Duper duper",
-      "id": "UGo4kmkHaiFSo5fNSntvS"
+      "title": "Gimme Dat",
+      "text": "It's a thing",
+      "id": "4S4n6hn84RN78exqzjoFU"
     }
   ]
 }
