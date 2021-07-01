@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/RookiePrime/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nanoid": "^3.1.23"
   },
   "devDependencies": {
     "jest": "^27.0.6"
