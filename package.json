@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "UofT Full Stack Dev Bootcamp Challenge 11: A note-taking app using the Express.js backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RookiePrime/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RookiePrime/note-taker/issues"
+  },
+  "homepage": "https://github.com/RookiePrime/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.23"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
