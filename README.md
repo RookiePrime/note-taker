@@ -2,6 +2,8 @@
 ## Description
 A note-taking application making use of Express.js for the server back-end.
 
+[Link to deployed application!](https://kinder-beaver-54503.herokuapp.com/)
+
 ![Preview image of the application](./preview.png)
 
 ## Table of Contents
